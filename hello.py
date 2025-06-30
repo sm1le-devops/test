@@ -4,3 +4,5 @@ def ader(a):
 print(ader(3))
 print(6)
 print(7)
+b = [1,2,3,4,5]
+print(b)
